@@ -9,7 +9,6 @@ Here, inputs will be Toby
 Singleton()  ----- Exists?  ----> No  -----> Create Instance and store in Instance
                             ----> Yes -----> Return Instance            
 
-
 """
 
 # Main Singleton class for accessing the same instance
