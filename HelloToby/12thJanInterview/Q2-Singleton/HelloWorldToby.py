@@ -45,19 +45,7 @@ print("Hello"+toby.y+"!")
 print("<------ Change made to the instance --------->")
 
 print("<------ New instance altered by previous assignment --------->")
-final = Singleton()
-print("Hello"+final.y+"!")
+last = Singleton()
+print("Hello"+last.y+"!")
 print("X------------------------------------------------------------------X")
-
-
-
-
-# x.y = input()
-
-
-
-
-
-
-
 
