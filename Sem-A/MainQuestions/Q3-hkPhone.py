@@ -17,7 +17,7 @@
 import re
 
 # regex_pattern
-pattern = "^\+(852)\s*[2,3,5,6,7,9][\d]{3}\s*[\d]{4}$"
+pattern = "^\+(852)\s*[2,3,5,6,7,9][\d]{3}\s*[\d]{4}\s*"
 
 #Input from user
 print("Please input your HK phone number (+852 XXXX XXXX)")
