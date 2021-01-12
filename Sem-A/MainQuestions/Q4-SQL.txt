@@ -1,0 +1,4 @@
+SELECT Name, Score
+FROM <Table Name>
+WHERE Score = (SELECT MAX(Score) 
+			   FROM <Table Name>);
